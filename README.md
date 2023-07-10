@@ -24,7 +24,7 @@ N/A
 
 Here's a walkthrough of implemented features:
 
-<img src='' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Dionmok/WEB102-Prework/blob/main/prework.gif' width='' alt='Video Walkthrough' />
 
 
 GIF created with LiceCap
