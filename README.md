@@ -1,4 +1,4 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# Sea Monster Crowdfunding
 
 Submitted by: Dion Mokhtari
 
