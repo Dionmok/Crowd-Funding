@@ -4,8 +4,6 @@ Submitted by: Dion Mokhtari
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 6 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -29,11 +27,6 @@ Here's a walkthrough of implemented features:
 
 GIF created with LiceCap
 
-## Notes
-
-Describe any challenges encountered while building the app. 
-
-There weren't any challenges that I face building this application.
 
 ## License
 
